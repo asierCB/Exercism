@@ -10,3 +10,5 @@ def response(hey_bob):
         return "Fine. Be that way!"
     else:
         return "Whatever."
+
+print(response('Hola, que tal?'))
